@@ -1,0 +1,17 @@
+---Code Requirements---
+Python 3.10+
+Tkinter(Available in python)
+
+numpy==1.16.1
+opencv-contrib-python==4.10.0.8
+opencv-python==4.10.0.84
+openpyxl==3.1.5
+pandas==2.1.1
+Pillow==11.0.0
+pyttsx3==2.98
+
+Editor - Visual studio code
+
+--Notes--
+It will require high processing power(I have 8 GB RAM & 1 GB Nvidia GT740M Graphic Card)
+Noisy image can reduce your accuracy so quality of images matter.
